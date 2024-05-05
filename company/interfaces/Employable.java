@@ -1,5 +1,5 @@
 package company.interfaces;
 
-public class Employable {
-    
+public interface Employable {
+    void work();
 }
